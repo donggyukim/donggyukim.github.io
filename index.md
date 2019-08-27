@@ -43,3 +43,6 @@ I designed various class projects while TA'ing.
   [[Part1](http://inst.eecs.berkeley.edu/~cs61c/sp15/projs/04/index.html)]
   [[Part2](http://inst.eecs.berkeley.edu/~cs61c/sp15/projs/04/index2.html)]
   [[Code](https://github.com/cs61c-spring2015/proj4_starter.git)]
+  
+## Misc
+New to Chisel? Don't be afraid. Go check out [RISC-V mini](https://github.com/ucb-bar/riscv-mini.git).
